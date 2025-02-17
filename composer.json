@@ -1,0 +1,26 @@
+{
+    "name": "gearmagicru/gm-be-config-audit",
+    "description": "Control Panel extension (module) \"Cache\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-extension", "extension", "configuration", "cache"],
+    "homepage": "https://apps.gearmagic.ru/component/gm-be-config-cache",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.be.config.cache",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
