@@ -1,0 +1,27 @@
+/*!
+ * Форма (Form).
+ *
+ * Расширение "Кэш".
+ * Модуль "Конфигурация".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+/**
+ * Панель вкладок формы.
+ * Ext.tab.Panel (tabpanel)
+ */
+/* Значок "Redis" */
+.gm-config-cache__icon-redis {
+    background-image: url("../images/icon-redis.png");
+}
+/* Значок "Memcached" */
+.gm-config-cache__icon-memcached {
+    background-image: url("../images/icon-memcached.png");
+}
+/* Значок "Filesystem" */
+.gm-config-cache__icon-filesystem {
+    background-image: url("../images/icon-filesystem.png");
+}
