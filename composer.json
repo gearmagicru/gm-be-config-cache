@@ -1,5 +1,5 @@
 {
-    "name": "gearmagicru/gm-be-config-audit",
+    "name": "gearmagicru/gm-be-config-cache",
     "description": "Control Panel extension (module) \"Cache\"",
     "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-extension", "extension", "configuration", "cache"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-config-cache",
